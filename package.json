@@ -1,0 +1,26 @@
+{
+  "name": "teste_buger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinheiro-qa/teste_buger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pinheiro-qa/teste_buger/issues"
+  },
+  "homepage": "https://github.com/Pinheiro-qa/teste_buger#readme",
+  "description": ""
+}

@@ -1,0 +1,1 @@
+Os arquivos criados para a automação podem servir como base de dados para diferentes testes, bastando preencher com diversas informações o aquivo de pages.js
